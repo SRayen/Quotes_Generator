@@ -39,6 +39,9 @@ footer{
 .quote-text{
     font-size: 2.75rem; 
 }
+.quote-author{
+  color: navy;
+}
 .long-quote{
     font-size: 2rem; 
 }
@@ -88,6 +91,10 @@ button:active{
 .fa-twitter{
     font-size: 1.5rem;
 }
+#headTitle{
+  color: black;
+  font-size: 40px;
+}
 
 /* Media Query: Tablet or Smaller */
 @media screen and (max-width: 1000px){
@@ -109,6 +116,7 @@ button:active{
   }
   .quote-author{
     font-size: 1.5rem;
+    
 }
 }
 
