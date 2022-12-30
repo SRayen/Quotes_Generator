@@ -92,6 +92,7 @@ button:active{
 }
 
 @media screen and (max-width: 500px){
+
   .quote-container{
       margin: auto 5px;
   }
